@@ -5,3 +5,5 @@
 qiaojing 
 
 再次修改 测试checkout
+
+test --soft
